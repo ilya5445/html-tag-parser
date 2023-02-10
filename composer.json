@@ -1,0 +1,17 @@
+{
+    "name": "ilya5445/html-tag-parser",
+    "autoload": {
+        "psr-4": {
+            "Ilya5445\\HtmlTagParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilya5445",
+            "email": "ilya5445@yandex.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
